@@ -57,11 +57,6 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yogesh-dev02&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Yogesh's GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogesh-dev02&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fyogesh-dev02&query=%24.public_repos&label=Public%20Repositories&logo=github&style=for-the-badge&color=blue" alt="Public Repositories"/>
   <img src="https://img.shields.io/github/followers/yogesh-dev02?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers"/>
   <img src="https://img.shields.io/github/stars/yogesh-dev02/yogesh-dev02?style=for-the-badge&logo=github&label=Profile%20Repo%20Stars" alt="Profile Repository Stars"/>
